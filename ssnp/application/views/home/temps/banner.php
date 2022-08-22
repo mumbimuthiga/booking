@@ -39,9 +39,9 @@
                                 </div>
                                 <div class="d-sm-none d-block">
                                     <h5>
-                                    SSNPS Identity Management System
+                                   Iosoft Solutions Booking System
                                     </h5>
-                                    <br><h5>SSNPS Portal</h5>
+                                    <br><h5>Bookings Portal</h5>
                                     <br>
                                     <a href="<?php echo base_url('bookings/login'); ?>" class="btn btn-start btn-sm" type="button">Login
                                         </span></a>
